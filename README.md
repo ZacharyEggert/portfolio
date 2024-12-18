@@ -10,7 +10,7 @@ A portfolio website to show various projects
 
 1. **Setup Project**
    - [x] Install Node.js and npm
-   - [ ] Create a new Next.js project
+   - [x] Create a new Next.js project
 
      ```sh
      npx create-next-app@latest my-portfolio --typescript
