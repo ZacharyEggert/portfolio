@@ -26,10 +26,10 @@ A portfolio website to show various projects
      ```
 
 2. **Project Structure**
-   - [ ] Organize the project structure
-     - [ ] Create `components` directory for reusable components
-     - [ ] Create `app` directory for different pages and layouts
-     - [ ] Create `styles` directory for CSS/SCSS files
+   - [x] Organize the project structure
+     - [x] Create `components` directory for reusable components
+     - [x] Create `app` directory for different pages and layouts
+     - [x] ~~Create `styles` directory for CSS/SCSS files~~ *Not needed with app dir - css is colocated with components*
 
 3. **Basic Pages**
    - [ ] Create Home page (`app/page.tsx`)
