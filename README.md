@@ -17,7 +17,7 @@ A portfolio website to show various projects
      cd my-portfolio
      ```
 
-   - [ ] Initialize a Git repository
+   - [x] Initialize a Git repository
 
      ```sh
      git init
@@ -28,19 +28,19 @@ A portfolio website to show various projects
 2. **Project Structure**
    - [ ] Organize the project structure
      - [ ] Create `components` directory for reusable components
-     - [ ] Create `pages` directory for different pages
+     - [ ] Create `app` directory for different pages and layouts
      - [ ] Create `styles` directory for CSS/SCSS files
 
 3. **Basic Pages**
-   - [ ] Create Home page (`pages/index.tsx`)
-   - [ ] Create About page (`pages/about.tsx`)
-   - [ ] Create Projects page (`pages/projects.tsx`)
-   - [ ] Create Contact page (`pages/contact.tsx`)
+   - [ ] Create Home page (`app/page.tsx`)
+   - [ ] Create About page (`app/about/page.tsx`)
+   - [ ] Create Projects page (`app/projects/page.tsx`)
+   - [ ] Create Contact page (`app/contact/page.tsx`)
 
 4. **Navigation**
    - [ ] Create a Navbar component (`components/Navbar.tsx`)
    - [ ] Add links to Home, About, Projects, and Contact pages in the Navbar
-   - [ ] Include the Navbar in the main layout
+   - [ ] Include the Navbar in the main layout (`app/layout.tsx`)
 
 5. **Styling**
    - [ ] Setup global styles (`styles/globals.css`)
